@@ -1,0 +1,32 @@
+.product {
+    margin-top: 80px;
+    margin-left: 40px;
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+.product img {
+    width: 250px;
+    height: 250px;
+    margin-bottom: 15px;
+}
+
+.product h6 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.product .price {
+    font-size: 21px;
+}
+
+.buttom {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.amount{
+    font-size: 18px;
+}

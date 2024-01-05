@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Sakız",
+        "price": 10,
+        "image":"https://cdn.akakce.com/z/falim/falim-tekli-damla-100-adet.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Kola",
+        "price": 20,
+        "image":"https://www.mismarsanalmarket.com/UserFiles/Fotograflar/org/6400-coca-cola-200-ml-cam-54491250-jpg-54491250.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Ayakkabı",
+        "price": 500,
+        "image":"https://akn-barcin.a-cdn.akinoncloud.com/products/2021/10/15/938043/a5363262-f224-4611-bee2-79b8b53368de_size900x900_cropCenter.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Araba",
+        "price": 1000000,
+        "image":"https://res.cloudinary.com/tasit-com/images/f_webp,q_auto/v1671465788/en-iyi-spor-araba-modelleri/en-iyi-spor-araba-modelleri.jpg?_i=AA"
+    },
+    {
+        "id": 5,
+        "title": "İphone 15 Pro Max",
+        "price": 100000,
+        "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MT233?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1693248327138"
+    },
+    {
+        "id": 6,
+        "title": "Televizyon",
+        "price": 60000,
+        "image":"https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lg/thumb/139591-1_small.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Uçak",
+        "price": 8000000,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/A350_First_Flight_-_Low_pass_03.jpg/1200px-A350_First_Flight_-_Low_pass_03.jpg"
+    },
+    {
+        "id": 8,
+        "title": "F-16",
+        "price": 18000000,
+        "image":"https://media.istockphoto.com/id/187783127/tr/foto%C4%9Fraf/isolated-f-16-fighter-jet-on-white-background.jpg?s=612x612&w=0&k=20&c=xXzBqWtCrp66OyNtE9uhMNT1zvQir8MBECnOY8pciVs="
+    },
+    {
+        "id": 9,
+        "title": "R1",
+        "price": 900000,
+        "image":"https://www.motosikletsitesi.com/wp-content/uploads/2023/11/2024-YZF-R1-3.jpg"
+    },
+    {
+        "id": 10,
+        "title": "R6",
+        "price": 600000,
+        "image":"https://besthqwallpapers.com/Uploads/8-1-2018/36559/yamaha-yzf-r6-2018-white-sports-motorcycles-white-yzf-r6-sportbike.jpg"
+    },
+    {
+        "id": 11,
+        "title": "R7",
+        "price":850000 ,
+        "image":"https://cdn2.yamaha-motor.eu/prod/product-assets/2022/YZF700R7SV/2022-Yamaha-YZF700R7SV-EU-Anniversary_White-360-Degrees-001-03_Mobile.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Mt 07",
+        "price": 650000,
+        "image":"https://i0.wp.com/dengeliyorum.com/wp-content/uploads/2020/11/mt-07-gorunum.jpg?resize=780%2C519&ssl=1"
+    }
+]

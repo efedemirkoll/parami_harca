@@ -1,0 +1,31 @@
+.basket-container {
+    padding: 20px;
+    background: #fff;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.genel {
+    margin-left: 30px;
+}
+
+.toplam {
+    margin-left: 1150px;    
+}
+
+.btn{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    background: linear-gradient(to bottom, rgb(255, 0, 0), rgb(41, 22, 22));
+    color: #fff;
+    margin-left: 20px;
+}
+
+p{
+    margin-left: 15px;
+}
